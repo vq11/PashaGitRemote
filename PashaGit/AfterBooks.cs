@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PashaGit
 {
-    internal class User
+    internal class AfterBooks
     {
     }
 }

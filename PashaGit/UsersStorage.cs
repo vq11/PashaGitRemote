@@ -8,5 +8,6 @@ namespace PashaGit
 {
     internal class UsersStorage
     {
+        // решена проблема 1
     }
 }
