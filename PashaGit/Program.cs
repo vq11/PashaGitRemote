@@ -5,6 +5,7 @@
     {
         static void Main(string[]args)
         {
+            // просто коментарий
             Console.WriteLine("Hallo World");
         }
     }
