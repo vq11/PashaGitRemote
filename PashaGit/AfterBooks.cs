@@ -9,6 +9,6 @@ namespace PashaGit
     internal class AfterBooks
     {
         //jjd
-        // что-то изменил 2
+    
     }
 }
