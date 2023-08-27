@@ -9,6 +9,6 @@ namespace PashaGit
     internal class AfterBooks
     {
         //jjd
-    
+        // для задачи 9
     }
 }
