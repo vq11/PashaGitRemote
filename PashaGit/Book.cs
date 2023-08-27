@@ -9,6 +9,6 @@ namespace PashaGit
     internal class Book
     {
         // решена проблема 2
-        // ffggf
+        // что-то изменил 1
     }
 }

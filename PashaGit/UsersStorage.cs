@@ -9,5 +9,6 @@ namespace PashaGit
     internal class UsersStorage
     {
         // решена проблема 1
+        // что-то изменил 2
     }
 }
