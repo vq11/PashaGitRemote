@@ -6,6 +6,7 @@
         static void Main(string[]args)
         {
             Console.WriteLine("Hallo World");
+            // Изменения для 9 задачи
           
         }
     }
